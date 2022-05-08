@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Vazir";
+  src: url("./../fonts/Vazir/Vazirmatn-Regular.ttf") format(ttf);
+}
+
+* {
+  font-size: 15px;
+  font-family: "Vazir";
+}
+
+body {
+  background-color: #f7f5f2;
+  direction: rtl !important;
+}
+
+nav {
+  background-color: #495371;
+}
